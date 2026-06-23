@@ -10,7 +10,7 @@ public class Auto {
     private double spotreba;         // spotřeba paliva v litrech na 100 km
     private List<CastAuta> casti;    // seznam částí auta
 
-    // konstruktor pro vytvoření nové instance auta.
+    // konstruktor pro vytvoření nové instance auta
     public Auto(String znacka, String model, double kapacitaPaliva, double spotreba) {
         this.znacka = znacka;
         this.model = model;
