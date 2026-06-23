@@ -1,5 +1,8 @@
 # Garage Management System
 
+![Java](https://img.shields.io/badge/Java-17+-orange.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
+
 A Java-based console application demonstrating core Object-Oriented Programming (OOP) principles, designed to simulate a vehicle inventory and garage component management system.
 
 > **Note:** This project was developed as an academic assignment. The codebase, variable nomenclature, user interface text, and console outputs are written in Czech according to curriculum specifications.
